@@ -51,7 +51,7 @@ data-warehouse-project/
 │   ├── data_models.drawio
 │   ├── data_catalog.md
 │   └── naming-conventions.md
-├── scripts/                # SQL ETL scripts
+├── scripts/   t             # SQL ETL scrips
 │   ├── bronze/
 │   ├── silver/
 │   └── gold/
