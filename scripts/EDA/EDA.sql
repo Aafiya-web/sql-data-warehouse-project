@@ -1,4 +1,19 @@
 -- exploratory data analysis kmperformed on the data warehouse created
+/*
+📌 Key Findings
+✅ Top products & subcategories generate the majority of revenue.
+✅ Customer demographics reveal spending differences by country and gender.
+✅ Revenue distribution is uneven — few customers generate most revenue.
+✅ Product costs vs. revenues highlight profitability opportunities.
+✅ Date analysis shows business growth timeline and customer age distribution.
+
+⚙️ Tools Used
+SQL for querying and analysis
+Data Warehouse (Star Schema) with fact and dimension tables
+Business Intelligence Concepts for KPI tracking
+
+📂 This project showcases end-to-end SQL-based EDA with strong business insights. */
+
 
 use DataWarehouse;
 SELECT DISTINCT 
