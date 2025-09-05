@@ -31,6 +31,20 @@ Business Intelligence Fundamentals
 This project has strengthened my understanding of data warehousing principles and equipped me with practical skills in building scalable analytics systems. It’s a key milestone in my journey from data entry administration toward becoming a full-fledged data analyst.
 
 
+📊 Exploratory Data Analysis on Data Warehouse
+This project demonstrates Exploratory Data Analysis (EDA) performed on a Sales Data Warehouse. The analysis covers data exploration, business metrics, customer insights, product performance, and revenue breakdowns using SQL.
+📌 Key Findings
+✅ Top 5 Products & Subcategories drive the majority of revenue.
+✅ Customer demographics show spending differences across countries and genders.
+✅ Revenue is unevenly distributed — a small set of customers contributes most revenue.
+✅ Product costs and revenues vary by category, giving insight into pricing and profitability.
+✅ Date analysis highlights the business timeline and customer demographics.
+
+⚙️ Tools Used
+SQL for querying and analysis
+Data Warehouse (Star Schema) with fact and dimension tables
+Business Intelligence Concepts for KPI tracking
+
 🌐 Portfolio Website : https://www.analyzewithaafiya.com/
 
 💼 LinkedIn : https://www.linkedin.com/in/aafiya-memon-528501165/
